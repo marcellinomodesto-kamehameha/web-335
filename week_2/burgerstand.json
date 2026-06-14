@@ -1,0 +1,17 @@
+{
+  "_id": "64a2b9f3e4b09c8f7d1a3b5c",
+  "firstName": "Monique",
+  "lastName": "Harvey",
+  "orders": [
+    {
+      "_id": 16,
+      "burgerName": "Bacon Double Cheeseburger",
+      "price": 15.99
+    },
+    {
+      "_id": 22,
+      "burgerName": "Classic Cheeseburger",
+      "price": 8.99
+    }
+  ]
+}
