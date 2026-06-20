@@ -1,0 +1,40 @@
+{
+  "_id": "viewer01",
+  "firstName": "Marcellino",
+  "lastName": "Modesto",
+  "moviesWatched": [
+    {
+      "movieId": "movie1",
+      "movieName": "John Wick",
+      "genre": "Action/Thriller",
+      "rating": {
+        "_id": "rating01",
+        "ratingScore": 5,
+        "viewerId": "viewer001",
+        "movieId": "movie1"
+      }
+    },
+    {
+      "movieId": "movie2",
+      "movieName": "BorderLands",
+      "genre": "Action/Sci-Fi",
+      "rating": {
+        "_id": "rating02",
+        "ratingScore": 1,
+        "viewerId": "viewer001",
+        "movieId": "movie2"
+      }
+    },
+    {
+      "movieId": "movie3",
+      "movieName": "Mad Max",
+      "genre": "Action/Sci-Fi",
+      "rating": {
+        "_id": "rating03",
+        "ratingScore": 5,
+        "viewerId": "viewer001",
+        "movieId": "movie3"
+      }
+    }
+  ]
+}
