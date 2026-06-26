@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "_id": "user01",
+      "firstName": "John",
+      "lastName": "Halo",
+      "devices": [
+        {
+          "_id": "device01",
+          "deviceName": "iPhone 15",
+          "deviceType": "Smartphone",
+          "charger_id": "charger01"
+        },
+        {
+          "_id": "device02",
+          "deviceName": "Windows Surface Laptop 3",
+          "deviceType": "Laptop",
+          "charger_id": "charger02"
+        }
+      ]
+    }
+  ],
+  "chargers": [
+    {
+      "_id": "charger01",
+      "chargerType": "USB-C Fast Charger",
+      "voltage": 20
+    },
+    {
+      "_id": "charger02",
+      "chargerType": "Micro-USB Power Delivery charger",
+      "voltage": 65
+    }
+  ]
+}
